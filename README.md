@@ -7,13 +7,13 @@ I have a passion for creating scalable, impactful systems that drive results. Th
 
 I enjoy solving business problems through technology, and my goal is to build systems that not only meet but exceed user expectations.
 
-- 🔹 **Fullstack Developer**
-- 🔹 **Languages**: TypeScript, JavaScript, Python
-- 🔹 **Frontend Frameworks**: Nuxt.js, Vue.js, Next.js, React.js, Tailwind, Three.js
-- 🔹 **Backend Frameworks**: Nest.js, Express.js, Node.js, Django, Fast API
-- 🔹 **Databases**: PostgreSQL, MongoDB, MySQL, Oracle, MariaDB
-- 🔹 **Data Analysis**: Seaborn, Matplotlib, Pandas, Numpy
-- 🔹 **DevOps & CI/CD**: Docker, GitHub, GitLab, Nginx, Bash, Grafana
+🔹 **Fullstack Developer**
+🔹 **Languages**: TypeScript, JavaScript, Python
+🔹 **Frontend Frameworks**: Nuxt.js, Vue.js, Next.js, React.js, Tailwind, Three.js
+🔹 **Backend Frameworks**: Nest.js, Express.js, Node.js, Django, Fast API
+🔹 **Databases**: PostgreSQL, MongoDB, MySQL, Oracle, MariaDB
+🔹 **Data Analysis**: Seaborn, Matplotlib, Pandas, Numpy
+🔹 **DevOps & CI/CD**: Docker, GitHub, GitLab, Nginx, Bash, Grafana
 
 ## 📬 Contact
 
