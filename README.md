@@ -1,21 +1,17 @@
 # Hi there 👋
 
-I’m Vadim, a Developer with 4+ years of experience in TypeScript, JavaScript, and Python. I specialize in delivering high-performance backend and frontend solutions that enhance user experience, boost performance, and solve complex business problems.
+I'm a Senior Software & AI Engineer with 5+ years of experience translating complex business needs into scalable, production-ready products. I thrive at the intersection of product strategy, modern architecture, and artificial intelligence.
 
-## 🔍 About Me
-I have a passion for creating scalable, impactful systems that drive results. Throughout my career, I've contributed to a variety of projects, focusing on optimizing functionality, enhancing user engagement, and streamlining processing times.
+Core Focus Areas:
+・ Product-Minded Engineering: Focused on delivering measurable business value, clean architecture (SOLID, DDD), and exceptional user experiences.`
+・ AI Integration: Actively accelerating development and enriching product capabilities using LLM APIs (OpenAI, Anthropic, Qwen, DeepSeek) and advanced AI tooling (Cursor, Claude).
+・ Backend & Frontend: Deep expertise in building resilient APIs, microservices, and scalable web apps using TypeScript, Go, Node.js, and Python.
 
-I enjoy solving business problems through technology, and my goal is to build systems that not only meet but exceed user expectations.
-
-- 🔹 **Languages**: TypeScript, JavaScript, Python
-- 🔹 **Frontend**: Nuxt.js, Vue.js, Next.js, React.js, Redux, Pinia, Zustand, Vite, Webpack, Tailwind
-- 🔹 **Backend**: Node.js, Nest.js, Express.js, Django, Fast API, JWT, OAuth, SQL, Prisma, TypeORM, Sequalize, BullMQ
-- 🔹 **Databases**: PostgreSQL, MongoDB, MySQL, Oracle, MariaDB, Redis
-- 🔹 **DevOps & CI/CD**: Docker, GitHub, GitLab, Nginx, Bash, Grafana
+I specialize in taking ownership of technical challenges from concept to deployment, ensuring maintainability and high performance at every step.
 
 ## 📬 Contact
 
-- **Email**: [savelyevcs@gmail.com](mailto:savelyevcs@gmail.com)
+- **Email**: [savelyevresearch@protonmail.com](mailto:savelyevresearch@protonmail.com)
 - **LinkedIn**: [savelyevresearch](https://www.linkedin.com/in/savelyevresearch/)
 - **Telegram**: [@savelyevresearch](https://t.me/savelyevresearch)
 
