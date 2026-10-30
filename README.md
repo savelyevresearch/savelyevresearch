@@ -3,7 +3,8 @@
 I'm a Senior Software & AI Engineer with 5+ years of experience translating complex business needs into scalable, production-ready products. I thrive at the intersection of product strategy, modern architecture, and artificial intelligence.
 
 ## Core Focus Areas:
-- Product-Minded Engineering: Focused on delivering measurable business value, clean architecture (SOLID, DDD), and exceptional user experiences.`
+
+- Product-Minded Engineering: Focused on delivering measurable business value, clean architecture (SOLID, DDD), and exceptional user experiences.
 - AI Integration: Actively accelerating development and enriching product capabilities using LLM APIs (OpenAI, Anthropic, Qwen, DeepSeek) and advanced AI tooling (Cursor, Claude).
 - Backend & Frontend: Deep expertise in building resilient APIs, microservices, and scalable web apps using TypeScript, Go, Node.js, and Python.
 
